@@ -1,4 +1,4 @@
-# APMS (Algorithms, Problems, Methods, Solutions)
+# SPAM (Solutions, Problems, Algorithms, Methods)
 A selection of toy problems in Python and other languages. The topics are varied and include:
 
 * Physics and Mathematical methods
