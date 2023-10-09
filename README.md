@@ -1,4 +1,4 @@
-# SPAM (Solutions, Problems, Algorithms, Methods)
+# MAPS (Methods, Algorithms, Problems, Solutions)
 A selection of problems in Python and other languages. The topics are varied and include:
 
 * Physics and Mathematical methods
